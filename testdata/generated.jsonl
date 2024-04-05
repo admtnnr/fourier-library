@@ -1,0 +1,176 @@
+{"name":"ADD_BOOK","arguments":{"id":1,"name":"The Great Gatsby","count": 5}}
+{"name":"ADD_BOOK","arguments":{"id":2,"name":"1984","count":3}}
+{"name":"ADD_BOOK","arguments":{"id":3,"name":"To Kill a Mockingbird","count":4}}
+{"name":"ADD_BOOK","arguments":{"id":4,"name":"Pride and Prejudice","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":5,"name":"The Catcher in the Rye","count":3}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":1,"name":"John Doe"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":2,"name":"Jane Smith"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":3,"name":"Alex Johnson"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":4,"name":"Maria Garcia"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":5,"name":"James Wilson"}}
+{"name":"ADD_COPIES","arguments":{"id":1,"count":3}}
+{"name":"ADD_COPIES","arguments":{"id":2,"count":2}}
+{"name":"ADD_COPIES","arguments":{"id":3,"count":1}}
+{"name":"ADD_COPIES","arguments":{"id":4,"count":2}}
+{"name":"ADD_COPIES","arguments":{"id":5,"count":1}}
+{"name":"REMOVE_COPIES","arguments":{"id":1,"count":1}}
+{"name":"REMOVE_COPIES","arguments":{"id":2,"count":1}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":1,"bookId":1}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":1,"bookId":2}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":2,"bookId":3}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":2,"bookId":4}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":3,"bookId":5}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":3,"bookId":1}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":4,"bookId":2}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":4,"bookId":3}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":5,"bookId":4}}
+{"name":"RETURN_BOOK","arguments":{"accountId":1,"bookId":1}}
+{"name":"RETURN_BOOK","arguments":{"accountId":1,"bookId":2}}
+{"name":"RETURN_BOOK","arguments":{"accountId":2,"bookId":3}}
+{"name":"RETURN_BOOK","arguments":{"accountId":2,"bookId":4}}
+{"name":"RETURN_BOOK","arguments":{"accountId":3,"bookId":5}}
+{"name":"RETURN_BOOK","arguments":{"accountId":3,"bookId":1}}
+{"name":"RETURN_BOOK","arguments":{"accountId":4,"bookId":2}}
+{"name":"RETURN_BOOK","arguments":{"accountId":4,"bookId":3}}
+{"name":"RETURN_BOOK","arguments":{"accountId":5,"bookId":4}}
+{"name":"ADD_BOOK","arguments":{"id":6,"name":"Brave New World","count":4}}
+{"name":"ADD_BOOK","arguments":{"id":7,"name":"The Hobbit","count":3}}
+{"name":"ADD_BOOK","arguments":{"id":8,"name":"Moby Dick","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":9,"name":"War and Peace","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":10,"name":"Crime and Punishment","count":3}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":6,"name":"Elena Moreno"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":7,"name":"Lucas Grey"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":8,"name":"Sophia Lee"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":9,"name":"Miguel Santos"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":10,"name":"Olivia Green"}}
+{"name":"ADD_COPIES","arguments":{"id":6,"count":2}}
+{"name":"ADD_COPIES","arguments":{"id":7,"count":1}}
+{"name":"ADD_COPIES","arguments":{"id":8,"count":2}}
+{"name":"ADD_COPIES","arguments":{"id":9,"count":1}}
+{"name":"ADD_COPIES","arguments":{"id":10,"count":2}}
+{"name":"REMOVE_COPIES","arguments":{"id":6,"count":1}}
+{"name":"REMOVE_COPIES","arguments":{"id":7,"count":1}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":6,"bookId":6}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":6,"bookId":7}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":7,"bookId":8}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":7,"bookId":9}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":8,"bookId":10}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":8,"bookId":6}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":9,"bookId":7}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":9,"bookId":8}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":10,"bookId":9}}
+{"name":"RETURN_BOOK","arguments":{"accountId":6,"bookId":6}}
+{"name":"RETURN_BOOK","arguments":{"accountId":6,"bookId":7}}
+{"name":"RETURN_BOOK","arguments":{"accountId":7,"bookId":8}}
+{"name":"RETURN_BOOK","arguments":{"accountId":7,"bookId":9}}
+{"name":"RETURN_BOOK","arguments":{"accountId":8,"bookId":10}}
+{"name":"RETURN_BOOK","arguments":{"accountId":8,"bookId":6}}
+{"name":"RETURN_BOOK","arguments":{"accountId":9,"bookId":7}}
+{"name":"RETURN_BOOK","arguments":{"accountId":9,"bookId":8}}
+{"name":"RETURN_BOOK","arguments":{"accountId":10,"bookId":9}}
+{"name":"ADD_BOOK","arguments":{"id":11,"name":"Les Misérables","count":3}}
+{"name":"ADD_BOOK","arguments":{"id":12,"name":"The Brothers Karamazov","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":13,"name":"Anna Karenina","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":14,"name":"The Grapes of Wrath","count":1}}
+{"name":"ADD_BOOK","arguments":{"id":15,"name":"The Alchemist","count":3}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":11,"name":"Carlos Rivera"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":12,"name":"Samantha Brooks"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":13,"name":"Bruce Lee"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":14,"name":"Nina Morales"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":15,"name":"Liam Brown"}}
+{"name":"ADD_COPIES","arguments":{"id":11,"count":2}}
+{"name":"ADD_COPIES","arguments":{"id":12,"count":1}}
+{"name":"ADD_COPIES","arguments":{"id":13,"count":1}}
+{"name":"ADD_COPIES","arguments":{"id":14,"count":2}}
+{"name":"ADD_COPIES","arguments":{"id":15,"count":1}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":11,"bookId":11}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":11,"bookId":12}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":12,"bookId":13}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":12,"bookId":14}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":13,"bookId":15}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":13,"bookId":11}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":14,"bookId":12}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":14,"bookId":13}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":15,"bookId":14}}
+{"name":"RETURN_BOOK","arguments":{"accountId":11,"bookId":11}}
+{"name":"RETURN_BOOK","arguments":{"accountId":12,"bookId":13}}
+{"name":"RETURN_BOOK","arguments":{"accountId":13,"bookId":15}}
+{"name":"RETURN_BOOK","arguments":{"accountId":14,"bookId":12}}
+{"name":"ADD_BOOK","arguments":{"id":16,"name":"Don Quixote","count":3}}
+{"name":"ADD_BOOK","arguments":{"id":17,"name":"A Tale of Two Cities","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":18,"name":"The Lord of the Rings","count":4}}
+{"name":"ADD_BOOK","arguments":{"id":19,"name":"Little Women","count":3}}
+{"name":"ADD_BOOK","arguments":{"id":20,"name":"Jane Eyre","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":21,"name":"The Chronicles of Narnia","count":3}}
+{"name":"ADD_BOOK","arguments":{"id":22,"name":"Great Expectations","count":1}}
+{"name":"ADD_BOOK","arguments":{"id":23,"name":"The Adventures of Huckleberry Finn","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":24,"name":"Wuthering Heights","count":1}}
+{"name":"ADD_BOOK","arguments":{"id":25,"name":"Rebecca","count":3}}
+{"name":"ADD_BOOK","arguments":{"id":26,"name":"Frankenstein","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":27,"name":"Dracula","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":28,"name":"The Odyssey","count":1}}
+{"name":"ADD_BOOK","arguments":{"id":29,"name":"The Iliad","count":1}}
+{"name":"ADD_BOOK","arguments":{"id":30,"name":"Hamlet","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":31,"name":"Macbeth","count":3}}
+{"name":"ADD_BOOK","arguments":{"id":32,"name":"Romeo and Juliet","count":2}}
+{"name":"ADD_BOOK","arguments":{"id":33,"name":"Othello","count":1}}
+{"name":"ADD_BOOK","arguments":{"id":34,"name":"The Tempest","count":1}}
+{"name":"ADD_BOOK","arguments":{"id":35,"name":"King Lear","count":1}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":16,"name":"Tracy Chapman"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":17,"name":"Omar Sy"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":18,"name":"Vanessa Ives"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":19,"name":"Ethan Chandler"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":20,"name":"Victor Frankenstein"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":21,"name":"Dorian Gray"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":22,"name":"Sir Malcolm"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":23,"name":"Brona Croft"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":24,"name":"Sembene"}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":25,"name":"Hecate Poole"}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":16,"bookId":16}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":16,"bookId":17}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":17,"bookId":18}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":17,"bookId":19}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":18,"bookId":20}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":18,"bookId":21}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":19,"bookId":22}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":19,"bookId":23}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":20,"bookId":24}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":20,"bookId":25}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":21,"bookId":26}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":21,"bookId":27}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":22,"bookId":28}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":22,"bookId":29}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":23,"bookId":30}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":23,"bookId":31}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":24,"bookId":32}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":24,"bookId":33}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":25,"bookId":34}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":25,"bookId":35}}
+{"name":"RETURN_BOOK","arguments":{"accountId":16,"bookId":16}}
+{"name":"RETURN_BOOK","arguments":{"accountId":17,"bookId":18}}
+{"name":"RETURN_BOOK","arguments":{"accountId":18,"bookId":20}}
+{"name":"RETURN_BOOK","arguments":{"accountId":19,"bookId":22}}
+{"name":"RETURN_BOOK","arguments":{"accountId":20,"bookId":24}}
+{"name":"RETURN_BOOK","arguments":{"accountId":21,"bookId":26}}
+{"name":"RETURN_BOOK","arguments":{"accountId":22,"bookId":28}}
+{"name":"RETURN_BOOK","arguments":{"accountId":23,"bookId":30}}
+{"name":"RETURN_BOOK","arguments":{"accountId":24,"bookId":32}}
+{"name":"RETURN_BOOK","arguments":{"accountId":25,"bookId":34}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":2,"bookId":6}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":2,"bookId":7}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":3,"bookId":8}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":3,"bookId":9}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":4,"bookId":10}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":4,"bookId":11}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":5,"bookId":12}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":5,"bookId":13}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":6,"bookId":14}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":6,"bookId":15}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":7,"bookId":16}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":7,"bookId":17}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":8,"bookId":18}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":8,"bookId":19}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":9,"bookId":20}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":9,"bookId":21}}
+{"name":"PRINT_CATALOG"}
+{"name":"PRINT_ACCOUNTS"}
