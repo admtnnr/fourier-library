@@ -1,0 +1,10 @@
+{"name":"ADD_BOOK","arguments":{"id":1,"name":"Harry Potter and the Sorcerer's Stone","count": 1}}
+{"name":"ADD_BOOK","arguments":{"id":2,"name":"Harry Potter and the Chamber of Secrets","count":2}}
+{"name":"CREATE_ACCOUNT","arguments":{"id":1,"name":"Adam Tanner"}}
+{"name":"ADD_COPIES","arguments":{"id":1,"count":2}}
+{"name":"REMOVE_COPIES","arguments":{"id":1,"count":1}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":1,"bookId":1}}
+{"name":"RETURN_BOOK","arguments":{"accountId":1,"bookId":1}}
+{"name":"CHECKOUT_BOOK","arguments":{"accountId":1,"bookId":2}}
+{"name":"PRINT_CATALOG"}
+{"name":"PRINT_ACCOUNTS"}
